@@ -18,7 +18,6 @@
     <br/>
     9. views : routes에 정의한 페이지들을 정의한 페이지, 실제로 보여지는 view
     <br/><br/>
-    
     App : BrowseRouter에 들어가는 contents들 정의
     <br/>
     config : url 및 기본 글꼴
